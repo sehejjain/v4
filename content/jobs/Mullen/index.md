@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
+date: '2021-05-15'
+title: 'Project Steering Team'
+company: 'Fusion IIIT'
+location: 'India'
+range: 'January — May 2021'
 url: 'https://us.mullenlowe.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Led and managed multiple teams of students to create an Enterprise Resource Planning (ERP) system for IIIT Jabalpur.
+- Along this, personally supervised 2 teams of 14 students who were tasked with creating an entire Mobile Application from scratch encompassing various Automation modules for the institute.

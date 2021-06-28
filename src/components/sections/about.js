@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'Soft Computing',
+    'Research',
+    'ML | AI',
+    'Python',
+    'Data Science',
+    'Data Structures & Algorithms',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,22 +141,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
+            {/* <p>
+            Hi, I am Sehej, a 21-year-old Computer Science Undergrad from New Delhi. The foci of my projects vary from building software solutions to developing ideas and doing research, but what I prize myself for is the ability to learn new things and then building upon them.
+
+            </p> */}
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              My aspirations in my life are centred around empowering people, and striving for
+              inclusive and dynamic answers to the world’s problems.
+            </p>
+            <p>
+              Outside of my life as an engineer to be, I am an avid reader; from fantasy to science
+              fiction, these stories are my escape from the shackles of the world. With reading as
+              my escape from society, I derive the more communal pleasures of life by taking an
+              active part in the Music Society at my University.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
