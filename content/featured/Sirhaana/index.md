@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Sirhaana: Empowering the Urban Poor'
-cover: './sirhaana_logo.webp'
+cover: './sirhaana.jpeg'
 github: ''
 external: 'http://www.bayareaglobalhealthchallenge.com/2021-finalists'
 tech:
