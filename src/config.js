@@ -34,6 +34,14 @@ module.exports = {
       url: '/#jobs',
     },
     {
+      name: 'Positions of Responsibility',
+      url: '/#pors',
+    },
+    {
+      name: 'Honours and Accomplishments',
+      url: '/#accomplishments',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },
