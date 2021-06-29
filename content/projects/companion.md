@@ -1,5 +1,5 @@
 ---
-date: '2016-11-01'
+date: '2020-06-01'
 title: 'IIITDMJ Companion'
 github: 'https://github.com/Fuzzy-Spork/iiitdmj-companion'
 # external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
