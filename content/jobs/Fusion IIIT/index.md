@@ -1,5 +1,5 @@
 ---
-date: '2021-05-15'
+date: '2021-01-15'
 title: 'Project Steering Team'
 company: 'Fusion IIIT'
 location: 'India'
