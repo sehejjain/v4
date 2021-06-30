@@ -1,6 +1,6 @@
 ---
 date: '2021-04-21'
-title: 'Co-Convener Cultural Fraternity'
+title: 'Co-Convener'
 company: 'Cultural Fraternity, IIITDMJ'
 location: 'India'
 range: 'April 2021 - Present'
