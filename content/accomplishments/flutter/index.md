@@ -2,6 +2,7 @@
 date: '2020-08-01'
 title: 'Finalist'
 company: 'Hack'20'
+# location: 'India'
 range: 'August 2020'
 url: 'https://github.com/Fuzzy-Spork/Quester'
 ---
