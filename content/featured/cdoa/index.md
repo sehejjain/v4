@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '3'
 title: 'A Novel Nature Inspired Optimization Algorithm'
 cover:
 github:

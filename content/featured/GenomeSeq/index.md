@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Genome Sequencing using Nature Inspired Algorithms'
-cover: ''
+cover:
 github: ''
 external: ''
 tech:
