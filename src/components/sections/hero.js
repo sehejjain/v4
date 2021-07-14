@@ -59,12 +59,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h3 className="big-heading">Sehej Jain.</h3>;
-  const three = (
-    <h4 className="big-heading" style={{ fontSize: '50px', paddingRight: '5px' }}>
-      Computer Science. Research. He/him.
-    </h4>
-  );
+  const two = <h2 className="big-heading">Sehej Jain.</h2>;
+  // const three = (
+  //   <h3 className="big-heading">
+  //     CS. Research. He/him.
+  //   </h3>
+  // );
   const four = (
     <p>
       Hi, I am Sehej, a 21-year-old Computer Science Undergrad from New Delhi. The foci of my
@@ -73,12 +73,22 @@ const Hero = () => {
     </p>
   );
   const five = (
+    <p>
+      I go by the pronouns{' '}
+      <a href="https://www.mypronouns.org/he-him" target="_blank" rel="noreferrer">
+        'he/him'
+      </a>
+      .
+    </p>
+  );
+  const six = (
     <a href={`mailto:${email}`} className="email-link">
       Get In Touch
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  // const items = [one, two, three, four, five];
+  const items = [one, two, four, five, six];
 
   return (
     <StyledHeroSection>
